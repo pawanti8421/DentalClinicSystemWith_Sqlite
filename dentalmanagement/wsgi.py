@@ -15,4 +15,4 @@ os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'dentalmanagement.settings')
 
 application = get_wsgi_application()
 
-
+app =application
